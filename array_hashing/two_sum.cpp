@@ -1,5 +1,5 @@
 // first leetcode question starting june 20 2025
-// being done in vscode w/ the vim extension
+// being done in vim
 // pushed to github after if tests are passed
 
 
